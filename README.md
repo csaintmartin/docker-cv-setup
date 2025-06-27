@@ -6,4 +6,4 @@ You can add or remove some installation processes indicated in the file ``Docker
 
 Once you're ready to build your Docker image, use the bash script named ``build_image.sh``.
 
-Don't hesitate to change the actual image's name. 
+Don't hesitate to change the actual image's name, which is ``cv-setup``. 
