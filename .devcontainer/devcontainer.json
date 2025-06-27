@@ -3,7 +3,7 @@
     // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
     // "image": "mcr.microsoft.com/devcontainers/base:jammy"
     // "image": "mcr.microsoft.com/devcontainers/miniconda:latest",
-    "image": "csaintmartin/cv:latest",
+    "image": "cv-setup:latest",
 /*     "features": {
         "ghcr.io/devcontainers-extra/features/bash-command:1": {
 			"version": "latest"
