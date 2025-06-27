@@ -1,0 +1,19 @@
+{
+    "name": "cv-container",
+    // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+    // "image": "mcr.microsoft.com/devcontainers/base:jammy"
+    // "image": "mcr.microsoft.com/devcontainers/miniconda:latest",
+    "image": "csaintmartin/cv:latest",
+/*     "features": {
+        "ghcr.io/devcontainers-extra/features/bash-command:1": {
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+        
+    }, */
+    "extensions": [
+        "mathematic.vscode-latex",
+        "james-yu.latex-workshop",
+        "valentjn.vscode-ltex"
+    ]
+}
