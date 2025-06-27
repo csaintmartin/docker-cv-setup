@@ -1,6 +1,6 @@
 # Docker CV + cover letter: working environment setup 
 
-In this repository, I proposed to build a Docker image including LaTeX and moderncv for preparing your CV and cover letter.
+In this repository, I proposed to build a Docker image including LaTeX and moderncv for preparing your CV and cover letter (or any reports).
 
 You can add or remove some installation processes indicated in the file ``Dockerfile`` in order to customize your docker image as your needs.
 
